@@ -1,0 +1,16 @@
+// Put your spending here with signed(+/-) number in each line.
+// Example:
+
+2月：
+-790
++9000
+2/1
+午餐（雞湯）-230
+晚餐（刈包）-135
+消夜（雪花冰燒麻糬）-165
+2/2
+午餐（麥當勞）-125
+愛買-340
+下午茶-210
+
+// Remove example and fill your spendings.
